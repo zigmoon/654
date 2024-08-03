@@ -13,4 +13,4 @@ plugins:
 header_pages:
   - about.md
 minima:
-  skin: solarized-light
+  skin: auto
